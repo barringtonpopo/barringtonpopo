@@ -17,3 +17,7 @@ Five years as an investment analyst in DeFi and on-chain analytics at BMP Digita
 ## Day to day
 
 Python, Docker, pytest and git on the eval side. Dune Analytics and raw on-chain data on the crypto side.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/bpopo/) is the quickest way to reach me.
