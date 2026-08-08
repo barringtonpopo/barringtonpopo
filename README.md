@@ -8,7 +8,9 @@ Client work sits under NDA, so none of it appears here. Everything below was reb
 
 [llm-eval-harness](https://github.com/Bazzz93/llm-eval-harness) is a small Python CLI that runs a model against a folder of task files, grades the answers with deterministic checks and an LLM judge, and writes a report. Tested, CI on every push, runs offline out of the box.
 
-Next up are a pack of original SWE-bench-style tasks and a Terminal-Bench task with its own verifier. After that, a tool that turns live perp funding data into a structured analyst note.
+[funding-note](https://github.com/Bazzz93/funding-note) pulls live perp funding rates from Hyperliquid and dYdX, computes cross-venue spreads, and has an LLM write the analyst note. Every figure in the note is then verified against the source data, so a model that invents a number gets caught.
+
+Next up: a pack of original SWE-bench-style tasks and a Terminal-Bench task with its own verifier.
 
 ## Before this
 
