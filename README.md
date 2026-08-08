@@ -10,7 +10,9 @@ Client work sits under NDA, so none of it appears here. Everything below was reb
 
 [funding-note](https://github.com/barringtonpopo/funding-note) pulls live perp funding rates from Hyperliquid and dYdX, computes cross-venue spreads, and has an LLM write the analyst note. Every figure in the note is then verified against the source data, so a model that invents a number gets caught.
 
-Next up: a pack of original SWE-bench-style tasks and a Terminal-Bench task with its own verifier.
+[swe-task-pack](https://github.com/barringtonpopo/swe-task-pack) holds original SWE-bench-style task instances built from real, recently fixed bugs in public Python libraries, each with fail-to-pass tests, a golden patch and a harness that re-proves the task discriminates on every push.
+
+Next up: a Terminal-Bench task with its own verifier.
 
 ## Before this
 
