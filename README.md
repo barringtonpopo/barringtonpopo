@@ -12,7 +12,7 @@ Client work sits under NDA, so none of it appears here. Everything below was reb
 
 [swe-task-pack](https://github.com/barringtonpopo/swe-task-pack) holds original SWE-bench-style task instances built from real, recently fixed bugs in public Python libraries, each with fail-to-pass tests, a golden patch and a harness that re-proves the task discriminates on every push.
 
-Next up: a Terminal-Bench task with its own verifier.
+[terminal-bench-task](https://github.com/barringtonpopo/terminal-bench-task) is an original agent-evaluation task in the Harbor format, a messy two-venue funding data pipeline with decoy observations and an empty-field trap, shipped with an oracle solution and a verifier that re-proves the task from scratch on every push.
 
 ## Before this
 
