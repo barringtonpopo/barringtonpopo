@@ -1,8 +1,7 @@
 # Barrington Popo
 
-I build and review evaluation tasks for large language models. Freelance, based in London, working through data annotation platforms for AI lab clients. Most days that means agentic coding evals. I write tasks meant to make strong models fail and build the Docker environments they run in. The rest of the time goes on grading model output against rubrics I design, and on reviewing other people's submissions before they ship.
+I build and review evaluation tasks for large language models. Freelance, based in London. Most days that means agentic coding evalutionss. I write tasks meant to make strong models fail (red teaming) and build the Docker environments they run in. The rest of the time goes on grading model output against rubrics I design and on reviewing other people's submissions before they ship.
 
-Client work sits under NDA, so none of it appears here. Everything below was rebuilt from scratch on my own time to show the same skills.
 
 ## What's here
 
